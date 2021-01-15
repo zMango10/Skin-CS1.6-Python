@@ -17,12 +17,12 @@ Skins CS 1.6 = https://youtube.com/playlist?list=PLoA1ZBGEzMwF2G3Ih5oDVOj3BHhULc
     -=-=-=-=-= READ ME =-=-= READ ME -=-=-= READ ME =-=-= READ ME =-=-=-=-=-=-
 
       É necessário que o arquivo seja compilado em um .exe para que funcione, e para que
-    possa ser executado com administrador, visto que o CS fica intalado entro dos arquivos windows.
+    possa ser executado com administrador, visto que o CS fica intalado dentro dos arquivos windows.
 
-    ** PRIMEIRAMENTE, substituia os caminhos das  pastas das skins. Se não o programa não funcionara.
+    ** PRIMEIRAMENTE, substituia os caminhos das pastas das skins. Se não o programa não funcionará.
     ** SEGUNDAMENTE, caso não tenha alguma das skins, Baixe elas ou não tente aplica-las no programa.
-    ** TERCEIRAMENTE, é necessário compilar o arquivo.  Desculpe, mas sou um programador iniciante
-      e ainda não tenhototal domínio do Python para criar programas muitos complexos.
+    ** TERCEIRAMENTE, é necessário compilar o arquivo.
+        Desculpe, mas sou um programador iniciante e ainda não tenho total domínio do Python para criar programas muitos complexos.
 
     * Para compilar o programa, Abra o Terminal do Python, e coloque:
      cxfreeze <nome do arquivo> --target-dir <Pasta que será criada>
