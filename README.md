@@ -3,10 +3,15 @@ Um program que troca de skins de cs 1.6, sem precisar copiar e colar os arquivos
 
     POR FAVOR, ACESSE OS LINKS E AJUDE NA DIVULGAÇÃO DESSES VÍDEOS, SÓ POR ELES QUE ESSE PROGRAMA SERIA POSSÍVEL ! <3
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=
+
 Como mover, copiar e apagar arquivos com Python - Aula 32 = https://www.youtube.com/watch?v=m8orGLxO03s
+
 PySimpleGUI - Múltiplas Janelas SEM Complicação! = https://www.youtube.com/watch?v=K3ykFW-gxWw&t=40s
+
 NOVO CS 1.6 ORIGINAL 2020 (Clássico v6.0) - Como Baixar e Instalar = https://www.youtube.com/watch?v=N64Ay8aYnsY&t=3s
+
 Skins CS 1.6 = https://youtube.com/playlist?list=PLoA1ZBGEzMwF2G3Ih5oDVOj3BHhULcCfi
+
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=--=-=-=-=-=-=-=-=-=-=-=-=
 
     -=-=-=-=-= READ ME =-=-= READ ME -=-=-= READ ME =-=-= READ ME =-=-=-=-=-=-
